@@ -1,0 +1,22 @@
+{
+  "name": "fwg-3.4-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fooweiguo/FWG-3.4-Activity.git"
+  },
+  "author": "fooweiguo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fooweiguo/FWG-3.4-Activity/issues"
+  },
+  "homepage": "https://github.com/fooweiguo/FWG-3.4-Activity#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
